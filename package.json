@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@notionhq/client": "^2.2.3",
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
